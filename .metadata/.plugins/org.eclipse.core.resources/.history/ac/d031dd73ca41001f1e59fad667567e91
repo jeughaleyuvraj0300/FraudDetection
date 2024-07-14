@@ -1,0 +1,5 @@
+package com.example.fraud.repository;
+
+public class TransactionRepository {
+
+}
